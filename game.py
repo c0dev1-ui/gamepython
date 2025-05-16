@@ -50,7 +50,12 @@ class Game:
             self.snake_coords.pop()
         self.snake_coords.insert(0, [x,y])
         self.canvas.after(100, self.GAME)
-        
+        #GOL
+        #GOL
+        #GOL
+        #GOL
+        #GOL
+        #GOL
         
 #Каркас игры
 root = Tk()
